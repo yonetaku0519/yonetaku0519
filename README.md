@@ -21,3 +21,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoshinori-koide&no-frame=true&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+### :shipit: Chart :shipit: :
+
+[![github-chart](https://github-chart.vercel.app/api?user=yonetaku0519)](https://github.com/rokumura7/github-chart)
