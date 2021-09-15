@@ -24,3 +24,6 @@
 ### :shipit: Chart :shipit: :
 
 [![github-chart](https://github-chart.vercel.app/api?user=yonetaku0519)](https://github.com/rokumura7/github-chart)
+
+
+
