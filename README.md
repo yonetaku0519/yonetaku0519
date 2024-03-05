@@ -4,7 +4,9 @@
 - 　　　　2021年06月：家庭都合で退職
 - 　　　　2021年12月：TechAcademy卒業 　　　　
 - 　　　　2022年04月：SES企業に入社
-- ✅ 主な経験言語: Java,C#,VB.net,PHP,Javascript,Vue.js
+- 　　　　2024年03月：SES企業に退職
+- 　　　　2024年04月：SIer企業に入社
+- ✅ 主な経験言語: Java,C#,VB.net,PHP,Javascript,Vue.js,Typescript
 - 🥰 好きなもの: 個人開発（2021年8月：クラウド冷蔵庫をリリース！！）
 - 😄 2024年の目標：仕事と育児の両立！
 
